@@ -1,0 +1,40 @@
+#header, footer {
+  display: block;
+  height: 55px;
+  background-color: display: block;
+  height: 55px;
+  background-color: hsl(37, 100%, 25%);
+  text-align: center;
+  color: white;
+}
+
+#main {
+  background-color: hsl(40, 80%, 90%); 
+  text-align: center;
+  font-family: 'Courier New', monospace;
+  color: hsl(40, 100%, 15%);
+}
+
+#title {
+  padding: 3vw;
+}
+
+#image {
+  display: block;
+  margin: auto;
+  max-width: 80%;
+  height: auto;
+  position: relative;
+}
+
+#tribute-info {
+  padding: 5vw;
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  margin: auto;
+}
+
+.text-area {
+  line-height: 40px;
+}
